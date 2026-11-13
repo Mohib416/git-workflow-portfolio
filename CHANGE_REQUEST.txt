@@ -1,0 +1,17 @@
+CLOUD INFRASTRUCTURE CHANGE REQUEST
+
+Request ID: CR-001
+Title: Update Cloud Server Configuration
+Environment: Development
+
+Requested Change:
+Update the configuration of the simulated cloud server.
+
+Reason:
+Improve configuration consistency and maintainability.
+
+Affected Resource: Simulated Cloud Server
+Risk Level: Medium
+Rollback Plan: Restore the previous server configuration.
+Validation: Verify service availability and review system logs.
+Status: Draft - Training Simulation Only
