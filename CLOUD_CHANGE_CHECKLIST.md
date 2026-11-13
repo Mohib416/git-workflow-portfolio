@@ -20,3 +20,10 @@ This checklist describes the main steps for managing a cloud infrastructure chan
 - [ ] Review relevant logs and monitoring information.
 - [ ] Confirm that the change was successful.
 - [ ] Document the final result.
+
+## 4. Version Control and Review
+- [ ] Create a feature branch for new changes.
+- [ ] Review changes before committing.
+- [ ] Use clear and descriptive commit messages.
+- [ ] Review the changes before merging into main.
+- [ ] Verify the repository status after merging.
