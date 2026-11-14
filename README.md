@@ -34,5 +34,5 @@ A change request is documented and reviewed using Git version control practices.
 
 ## Author
 
-Mohib – [GitHub Profile](https://github.com/Mohib416)
+Mohib 
 
