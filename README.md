@@ -31,3 +31,8 @@ A change request is documented and reviewed using Git version control practices.
 
 ### 3. GitHub Repository and Commit History
 ![GitHub Repository](screenshots/03-github-repository-and-commit-history.png)
+
+## Author
+
+Mohib – [GitHub Profile](https://github.com/Mohib416)
+
