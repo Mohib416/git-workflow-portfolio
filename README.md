@@ -20,3 +20,14 @@ A change request is documented and reviewed using Git version control practices.
 - Merging branches and resolving conflicts.
 - Connecting local repositories to GitHub.
 - Pushing, pulling and cloning repositories.
+
+## Project Screenshots
+
+### 1. Repository Initialization and First Commit
+![Repository Initialization](screenshots/01-git-repository-initialization-and-first-commit.png)
+
+### 2. Branching and Merge Workflow
+![Branching and Merge](screenshots/02-git-branching-and-merge-workflow.png)
+
+### 3. GitHub Repository and Commit History
+![GitHub Repository](screenshots/03-github-repository-and-commit-history.png)
